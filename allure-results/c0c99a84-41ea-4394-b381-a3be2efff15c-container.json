@@ -1,0 +1,1 @@
+{"uuid":"c0c99a84-41ea-4394-b381-a3be2efff15c","name":"avitoTestAutomation","start":1642150626150,"stop":1642150645772,"children":["dc3c178f-def0-4ddd-8cf4-a09c29d57dac"],"afters":[{"name":"clearCookiesAndLocalStorage","status":"passed","stage":"finished","description":"","start":1642150645768,"stop":1642150645771}]}

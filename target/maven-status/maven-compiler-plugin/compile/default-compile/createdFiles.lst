@@ -1,0 +1,10 @@
+Main.class
+pages\home\AvitoHomePage.class
+constants\Constant.class
+pages\base\BasePage.class
+common\CommonActions.class
+common\Config.class
+constants\Constant$URL.class
+data\SimpleDataProviderTestNG.class
+constants\Constant$TimeoutVariable.class
+pages\listing\AvitoListingPage.class
